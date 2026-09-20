@@ -6,6 +6,10 @@ Practical security camera planning resources from Rhodium Security, a Melbourne 
 
 Read the [Melbourne home security camera planning guide](home-security-camera-planning-melbourne.md) for help mapping camera views, choosing a lens, planning night coverage, comparing recording options and preparing an installation brief.
 
+## CCTV installation quote checklist
+
+Use the [Melbourne CCTV installation quote checklist](cctv-installation-quote-checklist-melbourne.md) to prepare a property brief and compare equipment, storage, cabling, setup, exclusions and ongoing costs across quotes.
+
 For current business information, visit [Rhodium Security](https://securitycctvmelbourne.com.au/), browse the [home security camera range](https://securitycctvmelbourne.com.au/home-security-cameras), or see [showroom and contact details](https://securitycctvmelbourne.com.au/showroom).
 
 **Disclosure:** Rhodium Security publishes this repository and sells security equipment and installation services. Its own website links are provided for readers who want to review the range or contact the business. Product models, features and prices may change; verify current details before purchase.
